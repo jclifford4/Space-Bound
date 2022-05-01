@@ -31,3 +31,5 @@
 *.cginc filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.anim filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.htm filter=lfs diff=lfs merge=lfs -text
